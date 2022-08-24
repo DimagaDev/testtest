@@ -1,4 +1,4 @@
 const a = () => {
 	const b = 'some';
-	return 'hello';
+	return 'hello0000000000000000000000000';
 };
