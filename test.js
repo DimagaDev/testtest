@@ -3,6 +3,6 @@ const obj = {
 	b: 'h',
 };
 
-function sum(a, b) {
-	return a + b;
+function sum(a, b, c, d) {
+	return a + b + c + d;
 }
